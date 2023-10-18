@@ -1,4 +1,4 @@
-<h1>Template Portfolio</h1>
+<h1>Template Portfolio (em reestruturação)</h1>
 <hr>
 
 <h2>Ferramentas utilizadas no desenvolvimento:</h2>
